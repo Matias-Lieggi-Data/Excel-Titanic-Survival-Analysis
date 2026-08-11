@@ -59,6 +59,7 @@ The workbook includes the following sheets: Portada, README, Dataset_Original, D
 - Passenger class strongly influenced both fare paid and survival probability.
 
 👤 Author
+
 Matías Lieggi
 
 Junior Data Analyst
